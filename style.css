@@ -17,3 +17,15 @@ h1 {
   font-family:sans-serif,arial;
 font-size: 27px;
 }
+
+/*aside section styling*/
+h2{
+  font:bolder
+}
+.btn-custom {
+  background-color: #6991e3 !important;
+  color: white !important; 
+}
+
+
+
