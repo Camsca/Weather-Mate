@@ -1,0 +1,19 @@
+*{/*default style*/
+    margin:0;
+    padding: 0%;
+  
+}
+/*header style*/
+header{
+    background-image: linear-gradient(to right,#4558b6,#34398b,#291779  );
+    color: white;
+   height: 60px;
+}
+
+h1 {
+  text-align: right;
+    margin-right: 25%;
+  padding: 10px;
+  font-family:sans-serif,arial;
+font-size: 27px;
+}
